@@ -1,0 +1,1 @@
+Notes on number representation, C fundamentals and the memory model.

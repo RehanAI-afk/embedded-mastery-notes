@@ -1,0 +1,1 @@
+One log per week: what I built, what broke, what I measured, what's next.

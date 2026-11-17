@@ -1,0 +1,1 @@
+Diagnostic and self-test answers, written before checking any sources.
